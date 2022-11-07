@@ -6,4 +6,5 @@ module.exports = {
     DOMAIN_URL: process.env.DOMAIN_URL,
     PAYPAL_CLIENT_ID: process.env.PAYPAL_CLIENT_ID,
   },
+  distDir: "build",
 };
